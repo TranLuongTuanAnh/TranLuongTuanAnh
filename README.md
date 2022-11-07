@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranluongtuananh" alt="tranluongtuananh" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Engineer**
+- 🌱 I’m currently learning **Machine Learning, Data Engineer, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
