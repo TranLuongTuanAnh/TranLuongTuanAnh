@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Engineer, Python**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/tuan-anh-tran-luong-4a75b4172/</h3>
 <p align="left">
 </p>
 
