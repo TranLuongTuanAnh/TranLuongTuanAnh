@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm TranLuongTuanAnh, a VietNamese full-stack developer 👨‍💻</h1>
-<h3 align="center">A passionate fullstack developer from Japan</h3>
 
 - 🔭 I’m currently working on Tokyo 
 - 🌱 I’m currently learning **Machine Learning, Data Engineer, Python**
