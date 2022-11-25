@@ -83,7 +83,7 @@
 
  <br/> 
 <div align="left">  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranluongtuananh&title=MultiLanguage,Commits,Stars&row=2&column=3" alt="tranluongtuananh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranluongtuananh" alt="tranluongtuananh" /></a> </p>
 </div>
   
 
