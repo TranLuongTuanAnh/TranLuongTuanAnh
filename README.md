@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tran Luong Tuan Anh</h1>
 <h3 align="center">A passionate fullstack developer from Japan</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranluongtuananh" alt="tranluongtuananh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranluongtuananh&title=Followers,MultiLanguage,Commits,Stars,PullRequest,Repositories" alt="tranluongtuananh" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Data Engineer, Python**
 
