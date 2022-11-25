@@ -67,23 +67,23 @@
 <br/>  
 
 ## My Github Profile
-<table><tr><td valign="top" width="33%">
 
 
-<div align="center">  
+
+<div align="left">  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tranluongtuananh&show_icons=true&locale=en" alt="tranluongtuananh" />
 </div>
 
-</td><td valign="top" width="33%">
+<br/> 
  
-<div align="center">  
+<div align="left">  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranluongtuananh&show_icons=true&locale=en&layout=compact" alt="tranluongtuananh" />
 </div>
   
-</td><td valign="top" width="33%">
- 
-<div align="center">  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranluongtuananh&title=MultiLanguage,Commits,Stars&row=2&column=3" alt="tranluongtuananh" /></a> </p>
+
+ <br/> 
+<div align="left">  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranluongtuananh&title=MultiLanguage,Commits,Stars&row=2&column=3" alt="tranluongtuananh" /></a> </p>
 </div>
-</tr></table>   
+  
 
