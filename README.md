@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Tran Luong Tuan Anh</h1>
+<h1 align="center">Hi 👋, I'm TranLuongTuanAnh, a VietNamese full-stack developer 👨‍💻</h1>
 <h3 align="center">A passionate fullstack developer from Japan</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranluongtuananh&title=Followers,MultiLanguage,Commits,Stars,PullRequest,Repositories" alt="tranluongtuananh" /></a> </p>
-
+- 🔭 I’m currently working on Tokyo 
 - 🌱 I’m currently learning **Machine Learning, Data Engineer, Python**
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/tranluongtuannanh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -70,6 +69,23 @@
 
 <br/>  
 
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tranluongtuananh&show_icons=true&locale=en" alt="tranluongtuananh" /></p> 
+<table><tr><td valign="top" width="33%">
+
+
+<div align="center">  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tranluongtuananh&show_icons=true&locale=en" alt="tranluongtuananh" />
 </div>
+
+</td><td valign="top" width="33%">
+ 
+<div align="center">  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranluongtuananh&show_icons=true&locale=en&layout=compact" alt="tranluongtuananh" />
+</div>
+  
+</td><td valign="top" width="33%">
+ 
+<div align="center">  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranluongtuananh&title=MultiLanguage,Commits,Stars&row=2&column=3" alt="tranluongtuananh" /></a> </p>
+</div>
+</tr></table>   
+
