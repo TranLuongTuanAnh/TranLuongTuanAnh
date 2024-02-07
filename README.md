@@ -15,6 +15,9 @@
 <a href="https://www.kaggle.com/bachlidoto" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
+<a href="https://stackoverflow.com/users/5482288/tranluongtuananh" target="_blank">
+<img src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
 </div>  
 
 <p align="left">
