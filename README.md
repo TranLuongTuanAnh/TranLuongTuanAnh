@@ -71,12 +71,6 @@
 
 ## My Github Profile
 
-
-
-<div align="left">  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tranluongtuananh&show_icons=true&locale=en" alt="tranluongtuananh" />
-</div>
-
 <br/> 
  
 <div align="left">  
