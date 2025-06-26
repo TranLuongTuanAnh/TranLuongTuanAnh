@@ -80,7 +80,7 @@
 
  <br/> 
 <div align="center">  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranluongtuananh&column=-1&rank=-?&column=3&row=3" alt="tranluongtuananh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranluongtuananh&rank=-?&column=-1" alt="tranluongtuananh" /></a> </p>
 </div>
   
 
